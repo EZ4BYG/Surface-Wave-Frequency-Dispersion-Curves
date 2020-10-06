@@ -16,6 +16,7 @@
 **Tips**: 
 - The programs are in the **Frequency_Dispersion** folder, detailed information can be found in its readme.md file
 - The Matlab version completes the basic functions, and the Python version are aim to parallel computing!
+- Reference: *High-Frequency Surface-Wave Methods*, Jianghai Xia, China University of Geosciences Press
 
 ----
 
@@ -37,3 +38,4 @@
 **注意**: 
 - 所有相关程序在**Frequency_Dispersion**文件夹中，详细信息查看其中readme.md文件
 - Matlab版本的程序完成所有基本功能，Python版本程序完成并行计算！
+- 参考书：《高频面波方法》，夏江海，中国地质大学出版社
